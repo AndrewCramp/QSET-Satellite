@@ -1,0 +1,6 @@
+[submodule "QSET-Satellite"]
+	path = QSET-Satellite
+	url = https://github.com/AndrewCramp/QSET-Satellite
+[submodule "SunSensorsSTM32"]
+	path = SunSensorsSTM32
+	url = https://github.com/AndrewCramp/SunSensorsSTM32
